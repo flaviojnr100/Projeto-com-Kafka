@@ -1,1 +1,2 @@
 # Projeto-com-Kafka
+Projeto que engloba 2 microsserviços, um com o objetivo de cadastrar usuários e o outro de realizar o envio de emails de boas-vindas aos usuários cadastrados. Para realizar a comunicação entre os microsserviços, foi necessária a utilização de um sistema de mensageria. Tecnologias utilizadas: Spring boot, Spring web, Apache kafka, JavaMailSender, Spring JPA
